@@ -1,0 +1,4 @@
+﻿  prog_2.cpp
+C:\Users\Buterbrod\Desktop\C++\LR_8\prog_2\prog_2\prog_2.cpp(25,25): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Buterbrod\Desktop\C++\LR_8\prog_2\prog_2\prog_2.cpp(31,35): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+  prog_2.vcxproj -> C:\Users\Buterbrod\Desktop\C++\LR_8\prog_2\x64\Debug\prog_2.exe
